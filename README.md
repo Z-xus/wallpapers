@@ -1,5 +1,5 @@
-My wallpaper collection.
+My zenful wallpaper collection.
 
-![Img](./new/YOO.gif)
-![Img](./new/wallhaven-yx6qqk.png)
+![Img](./assets/bg.png)
+![Img](./assets/se_wall-05-copy-1.jpg)
 
